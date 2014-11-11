@@ -8,10 +8,7 @@ group :development do
   gem 'sqlite3', '1.3.8'
 end
 
-# Use SCSS for stylesheets
 gem 'sass-rails', '4.0.2'
-
-# Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
 
 # Use CoffeeScript for .js.coffee assets and views
